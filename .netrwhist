@@ -1,0 +1,3 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/Users/ming/project/github_gshlsh17/java-SE-8-Really-Impatient/gradle'
